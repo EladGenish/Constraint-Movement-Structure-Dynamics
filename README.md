@@ -62,3 +62,7 @@ Elad Genish
 Independent Researcher
 
 ## License
+This work is licensed under **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+Commercial use requires permission. For commercial licensing inquiries, contact the author.
+
